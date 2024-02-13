@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+xFONjNwIJxKi+DPiXGGxlPa7c2RpjjXHNvIxPjAnSw=",
+  "Source": "DockerComposeDemoApp",
+  "BasePath": "_content/DockerComposeDemoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
