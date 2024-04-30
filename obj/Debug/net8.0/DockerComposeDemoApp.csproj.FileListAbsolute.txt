@@ -103,3 +103,4 @@ C:\Users\HP\Desktop\My Work\SoftClub\Projects\DockerComposeDemoApp\obj\Debug\net
 C:\Users\HP\Desktop\My Work\SoftClub\Projects\DockerComposeDemoApp\obj\Debug\net8.0\DockerComposeDemoApp.pdb
 C:\Users\HP\Desktop\My Work\SoftClub\Projects\DockerComposeDemoApp\obj\Debug\net8.0\DockerComposeDemoApp.genruntimeconfig.cache
 C:\Users\HP\Desktop\My Work\SoftClub\Projects\DockerComposeDemoApp\obj\Debug\net8.0\ref\DockerComposeDemoApp.dll
+C:\Users\HP\Desktop\My Work\SoftClub\Projects\DockerComposeDemoApp\obj\Debug\net8.0\DockerComposeDemoApp.sourcelink.json
